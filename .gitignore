@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencias de paquetes
+#package-lock.json
+yarn.lock
+
+# Archivos de construcción
+/dist
+/build
+/.nuxt
+/.server
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos temporales de editor
+*.swp
+*.swo
+*.bak
+
+# Archivos generados por herramientas de frontend (pueden variar según el proyecto)
+*.log
